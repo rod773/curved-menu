@@ -1,2 +1,16 @@
 .menu {
+    position: fixed;
+    right: 0;
+    height: 100vh;
+    background-color: rgb(41, 41, 41);
+    color: white;
+
+    .body {
+        padding: 100px;
+        display: flex;
+        justify-content: space-between;
+
+        .nav {
+        }
+    }
 }
